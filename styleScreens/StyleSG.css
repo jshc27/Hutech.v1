@@ -152,7 +152,7 @@ footer {
     height: 30px;
     margin: 0px 10px;
     background-size: 30px 30px;
-    background-image: url('../Images/linkedin.png');
+    background-image: url('../images/linkedin.png');
     outline: none;
 
 }
@@ -164,7 +164,7 @@ footer {
     height: 30px;
     margin: 0px 10px;
     background-size: 30px 30px;
-    background-image: url('../Images/twitter.png');
+    background-image: url('../images/twitter.png');
     outline: none;
 
 }
