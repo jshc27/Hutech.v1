@@ -90,7 +90,7 @@ img {
     justify-content: center;
 }
 
-.buttonAttention {
+.buttonAttention-continue {
 
     grid-column: 2;
     grid-row: 6;
@@ -101,11 +101,37 @@ img {
     border: 0;
     box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 12px 15px rgba(0, 0, 0, 0.22);
     height: 30px;
+    width: 100px;
     cursor: pointer;
 
 }
 
-.buttonAttention a {
+.buttonAttention-continue a {
+
+    color: #202336;
+    text-decoration: none;
+    padding: 10px 25px;
+
+}
+
+
+.buttonAttention-regresar {
+
+    
+    grid-column: 2;
+    grid-row: 6;
+    margin-left: 110px;
+    background-color:#ffff;
+    border-radius: 10px;
+    font-weight: bold;
+    border: 0;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 12px 15px rgba(0, 0, 0, 0.22);
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.buttonAttention-regresar a {
 
     color: #202336;
     text-decoration: none;
