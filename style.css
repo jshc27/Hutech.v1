@@ -234,6 +234,30 @@ footer {
 --------------- RESPONSIVE --------------- */
 @media screen and (max-width:375px) {
 
-    
+    .container_logo {
+        justify-content: center;
+    }
 
+    .container_creator {
+        text-align: center;
+    }
+
+    .social_media {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .social_media a {
+        margin-top: 5px;
+    }
+    
+    .pharagra1, .pharagra2, .pharagra3 {
+        text-align: center;
+        padding: 0px 15px;
+    }
+    .footer {
+        height: 100px;
+        display: inline-block;
+    }
 }
