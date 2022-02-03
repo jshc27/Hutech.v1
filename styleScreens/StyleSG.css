@@ -85,6 +85,11 @@ img {
 
 }
 
+.podcast {
+    display: flex;
+    justify-content: center;
+}
+
 .buttonAttention {
 
     grid-column: 2;
