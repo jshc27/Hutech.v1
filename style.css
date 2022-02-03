@@ -251,7 +251,7 @@ footer {
     .social_media a {
         margin-top: 5px;
     }
-    
+
     .pharagra1, .pharagra2, .pharagra3 {
         text-align: center;
         padding: 0px 15px;
@@ -259,5 +259,36 @@ footer {
     .footer {
         height: 100px;
         display: inline-block;
+    }
+}
+
+@media screen and (max-width:425px) {
+
+    .container_logo {
+        justify-content: center;
+    }
+
+    .container_creator {
+        text-align: center;
+    }
+
+    .social_media {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .social_media a {
+        margin-top: 10px;
+    }
+    
+    .pharagra1, .pharagra2, .pharagra3 {
+        text-align: center;
+        padding: 0px 15px;
+    }
+    .footer {
+        height: 90px;
+        display: block;
+        justify-content: center;
     }
 }
