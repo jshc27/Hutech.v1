@@ -204,7 +204,12 @@ footer {
 
 /* 
 --------------- RESPONSIVE --------------- */
+
 @media screen and (max-width:375px) {
+
+    .MainAttention {
+        height: 600px;
+    }
 
     .container_logo {
         justify-content: center;
@@ -228,6 +233,13 @@ footer {
         text-align: center;
         padding: 0px 15px;
     }
+
+    .MainAttention .text1 {
+        margin-top: 0px;
+    }
+    .MainAttention .text2 {
+        margin-top: 0px;
+    }
     .footer {
         height: 100px;
         display: inline-block;
@@ -242,6 +254,7 @@ footer {
 
     .MainAttention {
         display: block;
+        height: 650px;
         text-align: center;
         padding: 20px;
     }
@@ -271,6 +284,13 @@ footer {
 
     .buttonAttention-continue {
         margin-right: 0px;
+    }
+
+    .MainAttention .text1 {
+        margin-top: 0px;
+    }
+    .MainAttention .text2 {
+        margin-top: 0px;
     }
 
     .container_creator {
