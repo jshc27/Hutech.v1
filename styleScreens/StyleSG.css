@@ -52,7 +52,7 @@ img {
 
 .MainAttention h3, .MainAttention p {
 
-    margin-bottom: 200px;
+    margin-bottom: 250px;
     grid-column: 4;
     grid-row: 4;
 
@@ -208,7 +208,7 @@ footer {
 @media screen and (max-width:375px) {
 
     .MainAttention {
-        height: 600px;
+        height: 690px;
     }
 
     .container_logo {
