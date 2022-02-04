@@ -313,3 +313,29 @@ footer {
         justify-content: center;
     }
 }
+
+
+@media screen and (max-width: 768px) {
+    
+
+    .MainAttention h3, .MainAttention p, .otrosRecursos {
+        margin-left: 20px;
+    }
+
+    .MainAttention p {
+        margin-top: 240px;
+    }
+
+    .MainAttention .otrosRecursos {
+        margin-top: 480px;
+    }
+
+    .MainAttention .text1 {
+        margin-top: 360px;
+    }
+    .MainAttention .text2 {
+
+        margin-top: 560px;
+    }
+
+}
