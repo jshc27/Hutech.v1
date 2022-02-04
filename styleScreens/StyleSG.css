@@ -208,7 +208,7 @@ footer {
 @media screen and (max-width:375px) {
 
     .MainAttention {
-        height: 690px;
+        height: 700px;
     }
 
     .container_logo {
@@ -254,7 +254,7 @@ footer {
 
     .MainAttention {
         display: block;
-        height: 690px;
+        height: 700px;
         text-align: center;
         padding: 20px;
     }
