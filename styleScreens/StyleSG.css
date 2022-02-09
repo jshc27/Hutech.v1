@@ -20,7 +20,7 @@ header {
 
 }
 
-img {
+.container_logo img {
 
     align-items: center;
     margin-left: 20px;
@@ -96,15 +96,12 @@ img {
     grid-row: 6;
     margin-right: 380px;
     background-color:#ffff;
-    background-image: url('../images/continuar.png');
-    background-repeat: no-repeat;
-    border-radius: 100%;
+    border-radius: 10px;
     font-weight: bold;
-    margin-top: 10px;
     border: 0;
     box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 12px 15px rgba(0, 0, 0, 0.22);
-    height: 64px;
-    width: 64px;
+    height: 30px;
+    width: 100px;
     cursor: pointer;
 
 }
