@@ -1,2 +1,2 @@
 # Hutech.v1
-Instrucción educativa en el buen uso de la tecnología y redes sociales. 
+Educational instruction in the proper use of technology and social networks.
