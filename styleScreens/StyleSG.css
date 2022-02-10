@@ -100,7 +100,7 @@ header {
     grid-row: 6;
     margin-right: 380px;
     background-color:#ffff;
-    border-radius: 10px;
+    border-radius: 5px;
     font-weight: bold;
     border: 0;
     box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 12px 15px rgba(0, 0, 0, 0.22);
@@ -126,7 +126,7 @@ header {
     grid-row: 6;
     margin-left: 95px;
     background-color:#ffff;
-    border-radius: 10px;
+    border-radius: 5px;
     font-weight: bold;
     border: 0;
     box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 12px 15px rgba(0, 0, 0, 0.22);
