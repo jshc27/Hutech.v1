@@ -70,6 +70,10 @@ header {
 
 }
 
+.MainAttention a {
+    text-decoration: none;
+}
+
 .MainAttention .otrosRecursos {
 
     margin-top: 320px;
