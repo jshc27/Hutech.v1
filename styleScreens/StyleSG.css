@@ -219,6 +219,10 @@ footer {
         justify-content: center;
     }
 
+    .video {
+        width: 350px;
+    }
+
     .container_creator {
         text-align: center;
     }
@@ -261,6 +265,10 @@ footer {
         height: 700px;
         text-align: center;
         padding: 20px;
+    }
+
+    .video {
+        width: 350px;
     }
 
     .MainAttention h2 {
