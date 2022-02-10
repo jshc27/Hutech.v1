@@ -219,7 +219,8 @@ footer {
         justify-content: center;
     }
 
-    .video {
+    
+    .podcast video {
         width: 350px;
     }
 
@@ -267,7 +268,7 @@ footer {
         padding: 20px;
     }
 
-    .video {
+    .podcast video {
         width: 350px;
     }
 
