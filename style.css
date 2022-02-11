@@ -161,7 +161,7 @@ button:active {
 
 }
 
-  /* -------- */
+/* -------- */
 
 button:hover {
 
@@ -264,31 +264,42 @@ footer {
 
 @media screen and (max-width:425px) {
 
-    .container_logo {
-        justify-content: center;
-    }
+.container_logo {
+    justify-content: center;
 
-    .container_creator {
-        text-align: center;
-    }
+}
 
-    .social_media {
-        display: block;
-        text-align: center;
-        margin-top: 20px;
-    }
+.container_creator {
+    text-align: center;
 
-    .social_media a {
-        margin-top: 10px;
-    }
-    
-    .pharagra1, .pharagra2, .pharagra3 {
-        text-align: center;
-        padding: 0px 15px;
-    }
-    .footer {
+}
+
+.social_media {
+
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.social_media a {
+
+    margin-top: 10px;
+
+}
+
+.pharagra1, .pharagra2, .pharagra3 {
+
+    text-align: center;
+    padding: 0px 15px;
+
+}
+
+.footer {
+
         height: 90px;
         display: block;
         justify-content: center;
+
     }
 }
