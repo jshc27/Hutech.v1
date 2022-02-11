@@ -15,7 +15,7 @@ header {
 }
 
 .container_logo {
-    
+
     display: flex;
 
 }
@@ -90,8 +90,10 @@ header {
 }
 
 .podcast {
+
     display: flex;
     justify-content: center;
+
 }
 
 .buttonAttention-continue {
@@ -121,7 +123,6 @@ header {
 
 .buttonAttention-regresar {
 
-    
     grid-column: 2;
     grid-row: 6;
     margin-left: 95px;
@@ -133,6 +134,7 @@ header {
     height: 30px;
     width: 80px;
     cursor: pointer;
+
 }
 
 .buttonAttention-regresar a {
@@ -150,6 +152,7 @@ header {
 }
 
 /*---------- FOOTER ---------- */
+
 footer {
 
     display: flex;
@@ -204,127 +207,175 @@ footer {
 
 }
 
-
-
 /* 
 --------------- RESPONSIVE --------------- */
 
 @media screen and (max-width:375px) {
 
-    .MainAttention {
-        height: 700px;
-    }
+.MainAttention {
 
-    .container_logo {
-        justify-content: center;
-    }
+    height: 700px;
+}
 
-    
-    .podcast video {
-        width: 350px;
-    }
+.container_logo {
 
-    .container_creator {
-        text-align: center;
-    }
+    justify-content: center;
 
-    .social_media {
-        display: block;
-        text-align: center;
-        margin-top: 20px;
-    }
+}
 
-    .social_media a {
-        margin-top: 5px;
-    }
+.podcast video {
 
-    .pharagra1, .pharagra2, .pharagra3 {
-        text-align: center;
-        padding: 0px 15px;
-    }
+    width: 350px;
 
-    .MainAttention .text1 {
-        margin-top: 0px;
-    }
-    .MainAttention .text2 {
-        margin-top: 0px;
-    }
-    .footer {
-        height: 100px;
-        display: inline-block;
-    }
+}
+
+.container_creator {
+
+    text-align: center;
+
+}
+
+.social_media {
+
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.social_media a {
+
+    margin-top: 5px;
+
+}
+
+.pharagra1, .pharagra2, .pharagra3 {
+
+    text-align: center;
+    padding: 0px 15px;
+
+}
+
+.MainAttention .text1 {
+
+    margin-top: 0px;
+
+}
+
+.MainAttention .text2 {
+
+    margin-top: 0px;
+
+}
+
+.footer {
+
+    height: 100px;
+    display: inline-block;
+}
 }
 
 @media screen and (max-width:425px) {
 
-    .container_logo {
-        justify-content: center;
-    }
+.container_logo {
 
-    .MainAttention {
-        display: block;
-        height: 700px;
-        text-align: center;
-        padding: 20px;
-    }
+    justify-content: center;
 
-    .podcast video {
-        width: 350px;
-    }
+}
 
-    .MainAttention h2 {
-        margin-bottom: 10px;
-    }
+.MainAttention {
 
-    .MainAttention p, .MainAttention h3 {
-        margin-top: 20px;
-        margin-bottom: 10px;
-    }
+    display: block;
+    height: 700px;
+    text-align: center;
+    padding: 20px;
 
-    .MainAttention .otrosRecursos  {
-        margin-bottom: 20px;
-        margin-top: 0px;
-    }
-    .podcast {
-        display: block;
-        text-align: center;
-    }
+}
 
-    .buttonAttention-regresar {
-        margin-left: 0px;
-        margin: 10px;
-    }
+.podcast video {
 
-    .buttonAttention-continue {
-        margin-right: 0px;
-    }
+    width: 350px;
 
-    .MainAttention .text1 {
-        margin-top: 0px;
-    }
-    .MainAttention .text2 {
-        margin-top: 0px;
-    }
+}
 
-    .container_creator {
-        text-align: center;
-    }
+.MainAttention h2 {
 
-    .social_media {
-        display: block;
-        text-align: center;
-        margin-top: 20px;
-    }
+    margin-bottom: 10px;
 
-    .social_media a {
-        margin-top: 10px;
-    }
-    
-    .footer {
-        height: 90px;
-        display: block;
-        justify-content: center;
-    }
+}
+
+.MainAttention p, .MainAttention h3 {
+
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+.MainAttention .otrosRecursos  {
+
+    margin-bottom: 20px;
+    margin-top: 0px;
+
+}
+
+.podcast {
+
+    display: block;
+    text-align: center;
+
+}
+
+.buttonAttention-regresar {
+
+    margin-left: 0px;
+    margin: 10px;
+
+}
+
+.buttonAttention-continue {
+
+    margin-right: 0px;
+
+}
+
+.MainAttention .text1 {
+
+    margin-top: 0px;
+}
+
+.MainAttention .text2 {
+
+    margin-top: 0px;
+
+}
+
+.container_creator {
+
+    text-align: center;
+
+}
+
+.social_media {
+
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.social_media a {
+
+    margin-top: 10px;
+
+}
+
+.footer {
+
+    height: 90px;
+    display: block;
+    justify-content: center;
+
+}
 }
 
 /* 
